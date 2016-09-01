@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/s170717/Documents/workspace/HelloDataType
+-d
+/Users/s170717/Documents/workspace/HelloDataType/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/s170717/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/s170717/Documents/workspace/HelloDataType/HelloDataType.java
+<---- end of javadoc command ---->
+Loading source file /Users/s170717/Documents/workspace/HelloDataType/HelloDataType.java...
+/Users/s170717/Documents/workspace/HelloDataType/HelloDataType.java:28: error: ';' expected
+    private int addTwoNumbers(int a, int b)
+                                           ^
+1 error

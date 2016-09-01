@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Userinfo()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LOL\n
+comment1.params=
+comment1.target=java.lang.String\ getFirstname()
+comment2.params=newFirstname
+comment2.target=void\ setFirstname(java.lang.String)
+comment3.params=
+comment3.target=int\ getUserid()
+comment4.params=newUserid
+comment4.target=void\ setUserid(int)
+numComments=5
